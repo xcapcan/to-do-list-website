@@ -9,7 +9,10 @@ div {
   flex-direction: column;
 }
 .container{
+  width: 300px;
+  height: 300px;
   padding-top: 20px;
  border: solid #FEFBD0 10px;
  background-color: #FEFBD0;
+ border-style: outset;
 }
